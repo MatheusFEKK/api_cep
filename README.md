@@ -1,2 +1,2 @@
 # api_cep
-Inserir um CEP pelo POSTMAN e guarda no banco de dados
+Inserir um CEP pelo POSTMAN e em seguida será armazenado no banco de dados
